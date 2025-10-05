@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://an21365.github.io</id>
-    <title>AN21365</title>
-    <updated>2025-10-05T09:24:26.133Z</updated>
+    <title>Tatakaria</title>
+    <updated>2025-10-05T09:33:30.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://an21365.github.io"/>
     <link rel="self" href="https://an21365.github.io/atom.xml"/>
     <subtitle>站在孤岛边上</subtitle>
     <logo>https://an21365.github.io/images/avatar.png</logo>
     <icon>https://an21365.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2025, AN21365</rights>
+    <rights>All rights reserved 2025, Tatakaria</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://an21365.github.io/post/hello-gridea/</id>
