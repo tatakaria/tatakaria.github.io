@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tatakaria.github.io</id>
     <title>Tatakaria</title>
-    <updated>2025-10-05T10:06:21.133Z</updated>
+    <updated>2025-10-05T10:09:32.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tatakaria.github.io"/>
     <link rel="self" href="https://tatakaria.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2025-10-05T09:51:24.000Z</updated>
         <content type="html"><![CDATA[<p>2025-08-03，我心血来潮，用书法APP搜索了“一”，发现并不是我想象中的、全是大写的“壹”，而几乎都是小写（不过后来证明只是输入问题），遂探究。<br>
-我首先想到询问AI，但我在两次询问后，不太满意。之后，我在APP的字典里看“壹”的页面，其中有这样一段话：</p>
+我首先想到询问AI，但我在两次询问后，不太满意。之后，我在APP的字典里看“壹”的页面，其中有一段话：</p>
 <blockquote>
 <p>古书及汉人用字，如一之与壹，二之与贰，三之与叁，其义皆同。<br>
 <em>——《容斋五笔》</em></p>
@@ -26,12 +26,12 @@
 <blockquote>
 <p>在正式文书、账册、契约等场合，人们常用“壹、贰、叁”等大写数字，是为了防止篡改（例如“一”容易被改成“二”或“三”，而“壹”则难以改动）。</p>
 </blockquote>
-<p>另外，通过查询<strong>相关内容</strong><a href="https://www.zdic.net/hans/%E5%A3%B9">1</a>，了解到“壹”的本义是<strong>专一</strong>，且可作数词表“一”。前者起源于战国，后者起源于商。 ^1</p>
+<p>另外，通过查询<strong>相关内容</strong><a href="https://www.zdic.net/hans/%E5%A3%B9">1</a>，了解到“壹”的本义是<strong>专一</strong>，且可作数词表“一”。前者起源于战国，后者起源于商。</p>
 <p><img src="https://tatakaria.github.io/post-images/1759658672714.png" alt="" loading="lazy"><br>
 <img src="https://tatakaria.github.io/post-images/1759658686896.png" alt="" loading="lazy"></p>
 <p>故而，“一”不是“壹”的简体字，它们都已存在许久，甚至前者要早于后者。“一”很常用，而“壹”在较为正式或表示其特有意义时使用。</p>
 <ol>
-<li><a href="https://www.zdic.net/hans/%E5%A3%B9">壹的解释</a>．汉典网 [[#^1]]</li>
+<li><a href="https://www.zdic.net/hans/%E5%A3%B9">壹的解释</a>．汉典网</li>
 </ol>
 ]]></content>
     </entry>
