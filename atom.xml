@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tatakaria.github.io</id>
     <title>Tatakaria</title>
-    <updated>2026-01-01T04:43:40.310Z</updated>
+    <updated>2026-02-17T14:07:55.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tatakaria.github.io"/>
     <link rel="self" href="https://tatakaria.github.io/atom.xml"/>
@@ -10,6 +10,97 @@
     <logo>https://tatakaria.github.io/images/avatar.png</logo>
     <icon>https://tatakaria.github.io/favicon.ico</icon>
     <rights>All rights reserved 2026, Tatakaria</rights>
+    <entry>
+        <title type="html"><![CDATA[时间管理与记录]]></title>
+        <id>https://tatakaria.github.io/post/shi-jian-guan-li-yu-ji-lu/</id>
+        <link href="https://tatakaria.github.io/post/shi-jian-guan-li-yu-ji-lu/">
+        </link>
+        <updated>2026-02-17T13:43:43.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="柳比歇夫时间记录法手把手教你解决时间贫困">柳比歇夫时间记录法：手把手教你解决时间贫困</h1>
+<blockquote>
+<p>做时间记录，是一个可以帮你了解时间都花到哪去了的有效途径。本文章围绕时间记录的主题，从时间管理鼻祖柳比歇夫的事件记录方法开始分析总结。</p>
+</blockquote>
+<h2 id="01-柳比歇夫的事件记录">01 柳比歇夫的事件记录</h2>
+<h3 id="概引">概引</h3>
+<figure data-type="image" tabindex="1"><img src="https://tatakaria.github.io/post-images/1771337008084.jpg" alt="其中一日的记录" loading="lazy"></figure>
+<ul>
+<li><strong>记录格式</strong>：<code>X年X月X日</code> + <code>何事</code> + <code>X小时X分钟</code></li>
+<li><strong>核心逻辑</strong>：通过精确记录实现对时间的估算与掌控，从而制定并实现计划。</li>
+</ul>
+<h3 id="核心做法">核心做法</h3>
+<h4 id="1-基本要求">1. 基本要求</h4>
+<ul>
+<li><strong>目标明确</strong>：主要记录核心工作。</li>
+<li><strong>核心哲学</strong>：认识你自己。</li>
+</ul>
+<h4 id="2-计划与策略">2. 计划与策略</h4>
+<ul>
+<li><strong>净时间与毛时间</strong>
+<ul>
+<li><strong>净时间</strong>：除去一切间隔、纯粹用于工作的时间。</li>
+<li><strong>毛时间</strong>：工作的总耗时。</li>
+<li><strong>换算公式</strong>：</li>
+</ul>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">毛</mi><mi mathvariant="normal">时</mi><mi mathvariant="normal">间</mi><mo>≈</mo><mi mathvariant="normal">净</mi><mi mathvariant="normal">时</mi><mi mathvariant="normal">间</mi><mo>×</mo><mn>1.25</mn><mo>∼</mo><mn>1.3</mn></mrow><annotation encoding="application/x-tex">毛时间 \approx 净时间 \times 1.25 \sim 1.3
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.48312em;vertical-align:0em;"></span><span class="mord cjk_fallback">毛</span><span class="mord cjk_fallback">时</span><span class="mord cjk_fallback">间</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord cjk_fallback">净</span><span class="mord cjk_fallback">时</span><span class="mord cjk_fallback">间</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">.</span><span class="mord">2</span><span class="mord">5</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">∼</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">.</span><span class="mord">3</span></span></span></span></span></p>
+</li>
+<li><strong>时间单元</strong>：将一天划分为三个单元（各 200min）或六个半单元（各 100min）。</li>
+<li><strong>工作原则</strong>：
+<ol>
+<li>不承担硬性任务，不接受紧急任务。</li>
+<li>一觉得累就立刻停下来休息，保证充足睡眠。</li>
+<li>将累人的工作与轻松的工作穿插进行。</li>
+</ol>
+</li>
+</ul>
+<h4 id="3-统计比记录更重要">3. 统计比记录更重要</h4>
+<ul>
+<li><strong>记录原则</strong>：如实记录，不自我欺骗。</li>
+<li><strong>统计习惯</strong>：每日统计主要工作总用时，便于复盘。</li>
+</ul>
+<h3 id="复盘总结">复盘总结</h3>
+<ul>
+<li><strong>多维复盘</strong>：
+<ul>
+<li><strong>日/月/年</strong>：月度复盘基于每日，年度复盘基于月度，分大类记录。</li>
+<li><strong>项目制</strong>：每个项目完成时进行针对性统计。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="02-实践与分类">02 实践与分类</h2>
+<h3 id="五种时间分类">五种时间分类</h3>
+<p>为了快速辨认当下状态，可将时间分为以下五类：</p>
+<ol>
+<li>🟦 <strong>生存时间</strong>：为了生存而被动付出的时间（吃饭、睡觉、家务等）。</li>
+<li>🟩 <strong>赚钱时间</strong>：提升核心价值（技能、资源、智力等）的时间。</li>
+<li>🟥 <strong>好看时间</strong>：为了生命力的“好看”而付出的时间。</li>
+<li>🟧 <strong>好玩时间</strong>：纯粹的娱乐与体验。</li>
+<li>🟪 <strong>心流时间</strong>：为了沉浸的最优体验而选择付出，并获得心流。</li>
+</ol>
+<blockquote>
+<p><strong>注意</strong>：时间类型具有主观性，且会相互转化（例如刷短视频过久可能从“好玩”变为“生存时间”）。</p>
+</blockquote>
+<h3 id="实践原则">实践原则</h3>
+<ul>
+<li><strong>全面性</strong>：尽量记录所有时间。</li>
+<li><strong>模糊性</strong>：不必过于精确。</li>
+<li><strong>独立性</strong>：计划与记录分离。</li>
+</ul>
+<h3 id="时间分数">时间分数</h3>
+<ul>
+<li><strong>做法</strong>：从目标出发自选维度打分。</li>
+<li><strong>意义</strong>：判断某件事是否值得做。若各维度得分均低，则不该做。</li>
+</ul>
+<hr>
+<h2 id="03-参考来源">03 参考来源</h2>
+<ol>
+<li><a href="https://b23.tv/foFqXYq">手把手打造时间记录体系，解决时间贫困 | 阿肉研究室</a></li>
+</ol>
+<hr>
+<p><code>#随笔</code> <code>#时间管理</code></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12/32]]></title>
         <id>https://tatakaria.github.io/post/1232/</id>
