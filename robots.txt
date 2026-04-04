@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tatakaria.us.ci/sitemap.xml

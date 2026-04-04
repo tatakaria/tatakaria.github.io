@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tatakaria.us.ci/</loc>
+    <lastmod>2026-04-04T12:16:42+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tatakaria.us.ci/post/hello-gridea/</loc>
+    <lastmod>2026-04-04T11:35:29+08:00</lastmod>
+    <image:image>
+      <image:loc>https://tatakaria.us.ci/post-images/hello-gridea.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tatakaria.us.ci/tags/</loc>
+    <lastmod>2026-04-04T12:16:42+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tatakaria.us.ci/tag/gridea/</loc>
+    <lastmod>2026-04-04T12:16:42+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tatakaria.us.ci/tag/gridea-pro/</loc>
+    <lastmod>2026-04-04T12:16:42+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tatakaria.us.ci/archives/</loc>
+    <lastmod>2026-04-04T12:16:42+08:00</lastmod>
+  </url>
+</urlset>
