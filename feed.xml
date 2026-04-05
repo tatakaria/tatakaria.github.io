@@ -6,8 +6,137 @@
     <description>站在孤岛边上</description>
     <language>zh-cn</language>
     <generator>Gridea Pro</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 13:17:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 12:09:38 +0800</lastBuildDate>
     <atom:link href="https://tatakaria.us.ci/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title>时间管理</title>
+      <link>https://tatakaria.us.ci/post/shi-jian-guan-li/</link>
+      <guid isPermaLink="true">https://tatakaria.us.ci/post/shi-jian-guan-li/</guid>
+      <pubDate>Sun, 05 Apr 2026 12:09:38 +0800</pubDate>
+      <description><![CDATA[<blockquote>
+<p>做时间记录，是一个可以帮你了解时间都花到哪去了的有效途径。本文章围绕时间记录的主题，从时间管理鼻祖柳比歇夫的事件记录方法开始分析总结。</p>
+</blockquote>
+<h2 id="01-">01 柳比歇夫的事件记录</h2>
+<h3 id="heading">概引</h3>
+<p><img src="https://tatakaria.us.ci/post-images/1775362307527607500_0.jpg" alt="其中一日的记录" /></p>
+<ul>
+<li><strong>记录格式</strong>：<code>X年X月X日</code> + <code>何事</code> + <code>X小时X分钟</code></li>
+<li><strong>核心逻辑</strong>：通过精确记录实现对时间的估算与掌控，从而制定并实现计划。</li>
+</ul>
+<h3 id="heading-1">核心做法</h3>
+<h4 id="1-">1. 基本要求</h4>
+<ul>
+<li><strong>目标明确</strong>：主要记录核心工作。</li>
+<li><strong>核心哲学</strong>：认识你自己。</li>
+</ul>
+<h4 id="2-">2. 计划与策略</h4>
+<ul>
+<li><strong>净时间与毛时间</strong>
+<ul>
+<li><strong>净时间</strong>：除去一切间隔、纯粹用于工作的时间。</li>
+<li><strong>毛时间</strong>：工作的总耗时。</li>
+<li><strong>换算公式</strong>：<br />
+$$毛时间 \approx 净时间 \times 1.25 \sim 1.3$$</li>
+</ul>
+</li>
+<li><strong>时间单元</strong>：将一天划分为三个单元（各 200min）或六个半单元（各 100min）。</li>
+<li><strong>工作原则</strong>：
+<ol>
+<li>不承担硬性任务，不接受紧急任务。</li>
+<li>一觉得累就立刻停下来休息，保证充足睡眠。</li>
+<li>将累人的工作与轻松的工作穿插进行。</li>
+</ol>
+</li>
+</ul>
+<h4 id="3-">3. 统计比记录更重要</h4>
+<ul>
+<li><strong>记录原则</strong>：如实记录，不自我欺骗。</li>
+<li><strong>统计习惯</strong>：每日统计主要工作总用时，便于复盘。</li>
+</ul>
+<h3 id="heading-2">复盘总结</h3>
+<ul>
+<li><strong>多维复盘</strong>：
+<ul>
+<li><strong>日/月/年</strong>：月度复盘基于每日，年度复盘基于月度，分大类记录。</li>
+<li><strong>项目制</strong>：每个项目完成时进行针对性统计。</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2 id="02-">02 实践与分类</h2>
+<h3 id="heading-3">五种时间分类</h3>
+<p>为了快速辨认当下状态，可将时间分为以下五类：</p>
+<ol>
+<li>🟦 <strong>生存时间</strong>：为了生存而被动付出的时间（吃饭、睡觉、家务等）。</li>
+<li>🟩 <strong>赚钱时间</strong>：提升核心价值（技能、资源、智力等）的时间。</li>
+<li>🟥 <strong>好看时间</strong>：为了生命力的“好看”而付出的时间。</li>
+<li>🟧 <strong>好玩时间</strong>：纯粹的娱乐与体验。</li>
+<li>🟪 <strong>心流时间</strong>：为了沉浸的最优体验而选择付出，并获得心流。</li>
+</ol>
+<blockquote>
+<p><strong>注意</strong>：时间类型具有主观性，且会相互转化（例如刷短视频过久可能从“好玩”变为“生存时间”）。</p>
+</blockquote>
+<h3 id="heading-4">实践原则</h3>
+<ul>
+<li><strong>全面性</strong>：尽量记录所有时间。</li>
+<li><strong>模糊性</strong>：不必过于精确。</li>
+<li><strong>独立性</strong>：计划与记录分离。</li>
+</ul>
+<h3 id="heading-5">时间分数</h3>
+<ul>
+<li><strong>做法</strong>：从目标出发自选维度打分。</li>
+<li><strong>意义</strong>：判断某件事是否值得做。若各维度得分均低，则不该做。</li>
+</ul>
+<hr />
+<h2 id="03-">03 参考来源</h2>
+<ol>
+<li><a href="https://b23.tv/foFqXYq">手把手打造时间记录体系，解决时间贫困 | 阿肉研究室</a></li>
+</ol>
+<hr />
+<p><code>#随笔</code> <code>#时间管理</code>$0</p>
+]]></description>
+      <category>随笔</category>
+    </item>
+    <item>
+      <title>专注力</title>
+      <link>https://tatakaria.us.ci/post/zhuan-zhu-li/</link>
+      <guid isPermaLink="true">https://tatakaria.us.ci/post/zhuan-zhu-li/</guid>
+      <pubDate>Sun, 05 Apr 2026 12:07:15 +0800</pubDate>
+      <description><![CDATA[<p>#b站<br />
+有上进心却无法进入状态，并最终导致自责与实质性的无所作为。</p>
+<h3 id="heading">思维跟读</h3>
+<p><strong>适用内容</strong>：走神<br />
+<strong>解决方法</strong>：在心中默念看到或听到的内容，投入到默念中，达到思维聚焦的效果，随后在此基础上加入思考。<br />
+<strong>实操举例</strong>： 上课走神默念老师的话，阅读反复默念一两句话，不想别的，逐渐进入状态。</p>
+<h3 id="heading-1">输出模式</h3>
+<p><strong>适用内容</strong>：阅读完成后没有任何想法，只是完成了扫描<br />
+<strong>解决方法</strong>：保持为输出，下面为三个例子</p>
+<ol>
+<li><strong>翻译</strong>：读完一句话，试着用自己的语言复述一遍</li>
+<li><strong>绘画</strong>：随手拿起纸笔，画下逻辑关系（不要求十分严谨）</li>
+<li><strong>提问</strong>：阅读的时候带着问题搜寻答案（自己提出的问题）</li>
+</ol>
+<h3 id="heading-2">主动隔离</h3>
+<p><strong>适用内容</strong>：受身边其他因素影响<br />
+<strong>解决方法</strong>：</p>
+<ol>
+<li>寻找分神干扰源</li>
+<li>主动隔离</li>
+</ol>
+<p><strong>实操举例</strong>：</p>
+<ul>
+<li>对抗手机，制造物理阻力</li>
+<li>对抗大脑杂念，使用便利贴归档</li>
+</ul>
+<h3 id="heading-3">自我复刻</h3>
+<p><strong>现象</strong>：某次注意力非常集中<br />
+<strong>方法</strong>：分析出现条件，并复现<br />
+<strong>实操举例</strong>：手机没电&mdash;物理关机，DDL&mdash;设置倒计时，某一时段低能量&mdash;安排低难度任务</p>
+<p>来源：<br />
+<a href="https://b23.tv/j3bCwB9">从溜号到心流，5min 带你找回迷失的专注力！-哔哩哔哩</a>$0</p>
+]]></description>
+      <category>随笔</category>
+    </item>
     <item>
       <title>牛车</title>
       <link>https://tatakaria.us.ci/post/ox-cart/</link>
