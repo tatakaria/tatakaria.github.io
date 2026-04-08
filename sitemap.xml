@@ -1,46 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://tatakaria.us.ci/</loc>
-    <lastmod>2026-04-05T12:26:22+08:00</lastmod>
+    <loc>https://tatakaria.dpdns.org/</loc>
+    <lastmod>2026-04-08T12:37:28+08:00</lastmod>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/post/shi-jian-guan-li/</loc>
+    <loc>https://tatakaria.dpdns.org/post/shi-jian-guan-li/</loc>
     <lastmod>2026-04-05T12:19:56+08:00</lastmod>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/post/zhuan-zhu-li/</loc>
+    <loc>https://tatakaria.dpdns.org/post/zhuan-zhu-li/</loc>
     <lastmod>2026-04-05T12:20:07+08:00</lastmod>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/post/ox-cart/</loc>
+    <loc>https://tatakaria.dpdns.org/post/ox-cart/</loc>
     <lastmod>2026-04-04T13:17:24+08:00</lastmod>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/post/doubleyi/</loc>
+    <loc>https://tatakaria.dpdns.org/post/doubleyi/</loc>
     <lastmod>2026-04-04T13:22:07+08:00</lastmod>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/post/1232/</loc>
-    <lastmod>2026-04-05T07:33:18+08:00</lastmod>
+    <loc>https://tatakaria.dpdns.org/post/hello-gridea/</loc>
+    <lastmod>2026-04-08T12:25:39+08:00</lastmod>
     <image:image>
-      <image:loc>https://tatakaria.us.ci/post-images/1232.jpg</image:loc>
+      <image:loc>https://tatakaria.dpdns.org/post-images/hello-gridea.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/tags/</loc>
-    <lastmod>2026-04-05T12:26:22+08:00</lastmod>
+    <loc>https://tatakaria.dpdns.org/post/1232/</loc>
+    <lastmod>2026-04-05T07:33:18+08:00</lastmod>
+    <image:image>
+      <image:loc>https://tatakaria.dpdns.org/post-images/1232.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/tag/yan-jiu/</loc>
-    <lastmod>2026-04-05T12:26:22+08:00</lastmod>
+    <loc>https://tatakaria.dpdns.org/tags/</loc>
+    <lastmod>2026-04-08T12:37:28+08:00</lastmod>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/tag/sui-bi/</loc>
-    <lastmod>2026-04-05T12:26:22+08:00</lastmod>
+    <loc>https://tatakaria.dpdns.org/tag/yan-jiu/</loc>
+    <lastmod>2026-04-08T12:37:28+08:00</lastmod>
   </url>
   <url>
-    <loc>https://tatakaria.us.ci/archives/</loc>
-    <lastmod>2026-04-05T12:26:22+08:00</lastmod>
+    <loc>https://tatakaria.dpdns.org/tag/sui-bi/</loc>
+    <lastmod>2026-04-08T12:37:28+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tatakaria.dpdns.org/tag/Gridea/</loc>
+    <lastmod>2026-04-08T12:37:28+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tatakaria.dpdns.org/tag/Gridea%20Pro/</loc>
+    <lastmod>2026-04-08T12:37:28+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tatakaria.dpdns.org/archives/</loc>
+    <lastmod>2026-04-08T12:37:28+08:00</lastmod>
   </url>
 </urlset>
